@@ -13,6 +13,5 @@ var maxProfit = function(prices) {
             return 0
         }
     }
-    console.log(min, profit)
     return profit;
 };
